@@ -19,22 +19,20 @@
 	{	
 "ControlName"	"ContinuousProgressBar"	
 "fieldName"	"healthbar"
-"xpos"	"-36"	
-"ypos"	"-28"	
+"xpos"	"0"	
+"ypos"	"r1"	
 "zpos"	"101"	
-"wide"	"p0.027"	
-"tall"	"2"	
+"wide"	"f0"	
+"tall"	"4"	
 "textAlignment"	"Left"
-"visible"	"0"	
+"visible"	"1"	
 "enabled"	"1" 
 "variable"	"Health"
 "FGcolor_override"	"main"	
 "BGcolor_override"	"0 0 0 255"	
 "alpha"	"255"
 "border"	"sborder2" 
-		"pin_to_sibling"							"HealthAnchor"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
+
 	}
 		"PartySlot0"
 		{
